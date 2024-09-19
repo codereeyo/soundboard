@@ -50,4 +50,7 @@ body{
         display: flex;
         flex-direction: column;
     }
+    .btn-sounds:hover{
+        background-color: var(--pepeermint);
+    }
   }
